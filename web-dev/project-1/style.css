@@ -1,0 +1,21 @@
+html {
+  background-color: black;
+}
+h1 {
+  text-transform: uppercase;
+}
+
+.pic {
+  border: 5px solid white;
+  width: 100%;
+}
+.section {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 120px;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  text-align: center;
+}
